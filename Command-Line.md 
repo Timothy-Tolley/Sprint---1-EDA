@@ -1,4 +1,9 @@
-Command line is an application on your computer that can be used to navigate through the various files and folders, both hidden and otherwise. Command Line uses text commands rather than your mouse in order to navigate these directories. Command line can also be used to connect to online repositories such as Github. You can create files and folders and connect to other files and folders which could be held online. You use different commands whether you're interacting with online repositories or directories and local ones. 
+Command line is an application on your computer that can be used to
+ navigate through the various files and folders, both hidden and otherwise.
+ Command Line uses text commands rather than your mouse in order to navigate these directories.
+ Command line can also be used to connect to online repositories such as Github.
+ You can create files and folders and connect to other files and folders which could be held online.
+ You use different commands whether you're interacting with online repositories or directories and local ones. 
 
 Terminal Commands
 Change Directory - cd xxx
